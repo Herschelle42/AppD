@@ -16,6 +16,7 @@
                 Revisit propDef custom object creation
                 Reorder Properties to match vRA7 software component property order
                 Remove launching of report file (or add as a parameter)
+		Collect Dependencies between software components
 #>
 
 [array]$applicationList = ("Siebel v11")
