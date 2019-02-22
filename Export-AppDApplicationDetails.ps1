@@ -17,6 +17,7 @@
                 Reorder Properties to match vRA7 software component property order
                 Remove launching of report file (or add as a parameter)
 		Collect Dependencies between software components
+		Trim lines for trailing spaces?
 #>
 
 [array]$applicationList = ("Siebel v11")
